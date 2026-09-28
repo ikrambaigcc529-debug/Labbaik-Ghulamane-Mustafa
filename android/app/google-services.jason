@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307203387470",
+    "project_id": "labbaik-ghulamane-mustafa",
+    "storage_bucket": "labbaik-ghulamane-mustafa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307203387470:android:ca61702de3f5c34b65d31f",
+        "android_client_info": {
+          "package_name": "com.labbaikghulamanemustafa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNh5m8ZximgN2dsf7FrXg59_nB8-Sthcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
